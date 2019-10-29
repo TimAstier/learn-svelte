@@ -15,7 +15,7 @@
 - [x] **[Talk]** [The Return of 'Write Less, Do More'](https://www.youtube.com/watch?v=BzX4aTRPzno) - By Rich Harris @JSCAMP 2019
 - [ ] **[Repo]** [Official Svelte repo](https://github.com/sveltejs/svelte)
 - [x] **[Website]** [Official Svelte website](https://svelte.dev/)
-- [ ] **[Tutorial]** [Official Svelte tutorial](https://svelte.dev/tutorial/basics)
+- [x] **[Tutorial]** [Official Svelte tutorial](https://svelte.dev/tutorial/basics)
 - [ ] **[Example]** [Official Svelte examples](https://svelte.dev/examples)
 - [ ] **[Docs]** [Official Svelte API docs](https://svelte.dev/docs)
 - [ ] **[Blog]** [Official Svelte blog](https://svelte.dev/blog)
